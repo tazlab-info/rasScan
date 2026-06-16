@@ -2,7 +2,7 @@
 Python
 j'ai utilisé python car c'est un langage simple, ce dont j'avait besoin, pour sa facilité de debugging et car openfoodfacts à une api python.
 Données
-Les données sont fournies par openfoodfacts (openfoodfacts.org)
+Les données sont fournies par openfoodfacts (https://www.openfoodfacts.org)
 pourquoi
 Suite a un épisode marquant de ma vie, le vidage du frigo, j'ai constaté que la moissisure était peu utile mais tres odorante donc je me suis mis a creer un code pour evité cela a l'avenir.
 comment
@@ -13,4 +13,4 @@ Il vous faudra donc un scanner pour scannez les code-barres personnelement j'ai 
 
 
 Ce programme a été codé sans aucun vibe-coding appart pour trouve le pdf.
-Je suis un dévloppeur indépendant et je fait tien un blog sur noam.talzab.fr
+Je suis un dévloppeur indépendant et je fait tien un blog sur https://noam.talzab.fr
